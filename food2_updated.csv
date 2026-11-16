@@ -1,0 +1,51 @@
+Combo ID,Combo Composition,Total Calories (kcal),Protein Content,Fibre Content,Added Sugar,Fat Type & Quality,"Key Vitamins, Minerals & Antioxidants",Health_Index
+1,Grilled Salmon + Quinoa Salad + Lemon Water,640,44,9,0,1,5,Healthy
+2,Double Patty Fried Chicken Burger + Loaded Cheese Fries + Cola,1480,46,5,38,0,2,Unhealthy
+3,Oats Upma + 2 Boiled Eggs + Green Tea,430,22,8,1,1,4,Healthy
+4,3 Gulab Jamuns + 1 Plate Fried Kachori + Sweet Lassi,1290,18,4,45,0,1,Unhealthy
+5,Chickpea & Avocado Bowl + Mint Chaas,560,20,14,1,1,4,Healthy
+6,Pepperoni Stuffed Crust Pizza (3 Slices) + Garlic Bread + Pepsi,1360,44,5,34,0,2,Unhealthy
+7,Tandoori Chicken Breast + 2 Multigrain Rotis + Kachumber Salad,610,48,9,0,1,4,Healthy
+8,2 Fried Chicken Wings + Crispy Onion Rings + Chocolate Milkshake,1420,39,4,42,0,2,Unhealthy
+9,Moong Dal Chilla (2 pcs) + Mint Chutney + Unsweetened Almond Milk,420,21,9,1,1,4,Healthy
+10,1 Plate Chilli Paneer Dry + Fried Rice + Sweetened Iced Tea,1180,31,6,26,0,2,Unhealthy
+11,Tofu & Broccoli Stir Fry + Brown Rice + Jasmine Tea,540,28,11,2,1,5,Healthy
+12,Mutton Biryani (Extra Ghee) + 2 Fried Kebabs + Rooh Afza Sharbat,1540,52,5,32,0,2,Unhealthy
+13,2 Ragi Dosas + Sambar + Tomato Chutney,460,15,10,1,1,4,Healthy
+14,2 Chocolate Donut Rings + Caramel Frappuccino,980,11,2,46,0,1,Unhealthy
+15,Greek Yogurt Parfait + Chia Seeds + Mixed Berries,370,20,9,3,1,5,Healthy
+16,Crispy Fried Fish & Chips + Tartar Sauce + Sprite,1240,36,4,33,0,2,Unhealthy
+17,Lentil Soup + Whole Wheat Pita + Hummus,520,22,13,1,1,4,Healthy
+18,2 Cheese Burst Parathas (Extra Butter) + Mango Shake,1310,28,6,36,0,2,Unhealthy
+19,Baked Cod + Roasted Sweet Potatoes + Steamed Asparagus,580,42,10,2,1,5,Healthy
+20,1 Plate Fried Momos (8 pcs) + Mayonnaise + Cold Coffee with Ice Cream,1120,24,4,31,0,2,Unhealthy
+21,Palak Paneer (Low Oil) + 2 Jowar Rotis + Cucumber Raita,590,27,11,1,1,4,Healthy
+22,2 Aloo Tikki Burgers + Salted Fries + Fanta,1210,22,6,37,0,2,Unhealthy
+23,Egg White Omelette (4 whites) + 2 Whole Grain Toasts + Black Coffee,390,26,6,1,1,3,Healthy
+24,Creamy Alfredo Pasta + Cheese Garlic Toast + Chocolate Brownie,1390,34,4,35,0,2,Unhealthy
+25,Rajma Masala + Steamed Brown Rice + Onion Salad,630,23,14,1,1,4,Healthy
+26,2 Jalebis + 1 Samosa Chaat + Sweet Masala Chai,1050,15,5,41,0,2,Unhealthy
+27,Mediterranean Falafel Wrap (Whole Wheat) + Tabouleh + Water,600,21,12,2,1,4,Healthy
+28,BBQ Pork Ribs + Mac & Cheese + Root Beer,1590,58,4,39,0,2,Unhealthy
+29,Steamed Fish + Sauteed Spinach + Quinoa,530,41,8,0,1,5,Healthy
+30,2 Chicken Shawarma Rolls (Extra Mayo) + Baklava + Mirinda,1440,45,5,40,0,2,Unhealthy
+31,Sprouts Bhel + Roasted Makhana + Coconut Water,350,16,9,2,1,4,Healthy
+32,1 Plate Puri Bhaji + Sooji Halwa + Sweet Lassi,1190,19,6,38,0,2,Unhealthy
+33,Grilled Paneer Tikka + Mint Chutney + Mixed Greens Salad,510,29,8,1,1,4,Healthy
+34,Loaded Nachos with Cheese Sauce + Churros + Mountain Dew,1320,23,6,42,0,1,Unhealthy
+35,2 Bajra Rotis + Baingan Bharta + Plain Curd,490,16,12,1,1,4,Healthy
+36,Crispy Corn + Schezwan Noodles + Canned Lychee Juice,1140,20,5,29,0,2,Unhealthy
+37,Chicken & Vegetable Clear Soup + Whole Wheat Roll,410,30,7,1,1,4,Healthy
+38,2 Egg Puffs + Chicken Cutlet + Rose Milk,960,25,3,28,0,2,Unhealthy
+39,Soya Chunk Pulao + Boondi Raita (Low Fat),570,34,11,2,1,4,Healthy
+40,Deep Dish Meat Lovers Pizza (2 Slices) + Cinnamon Rolls,1460,49,4,37,0,2,Unhealthy
+41,Grilled Shrimp Skewers + Avocado Salsa + Iced Hibiscus Tea,480,36,9,1,1,5,Healthy
+42,1 Plate Medu Vada (3 pcs) + Kesari Bath + Sweet Filter Coffee,920,16,4,30,0,2,Unhealthy
+43,Poha with Peanuts & Peas + Plain Buttermilk,400,13,7,1,1,3,Healthy
+44,Fried Calamari Rings + Creamy Caesar Salad + Strawberry Soda,1080,33,3,31,0,2,Unhealthy
+45,Turkey & Hummus Whole Grain Sandwich + Carrot Sticks,470,32,8,2,1,4,Healthy
+46,2 Paneer Pakora Plates + Bread Pakora + Sweet Tea,1150,27,5,24,0,2,Unhealthy
+47,2 Besan Chillas stuffed with Paneer + Green Tea,480,25,8,0,1,4,Healthy
+48,Teriyaki Glazed Chicken Wings + Fried Noodles + Boba Milk Tea,1380,42,4,44,0,2,Unhealthy
+49,Quinoa Khichdi + Roasted Papad + Plain Curd,500,19,10,1,1,4,Healthy
+50,1 Large Waffle with Nutella & Whipped Cream + Hot Chocolate,1170,16,3,47,0,1,Unhealthy
