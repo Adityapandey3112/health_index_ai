@@ -1,0 +1,119 @@
+Timestamp,Name,year,Branch,Dish Eaten,Total Calories (kcal),Protein Content(in g),Fibre Content(in g),Added Sugar(in g),"Key Vitamins, Minerals & Antioxidants(Total Quantity in grams)",Fat Quality,Classification
+11/18/2026 20:20:42,Kush Saraogi,1st year,Metallurgy,Paneer Lababdar and 3 Naan with Lassi,1180,34,6.5,24,0.85,1,Unhealthy
+11/18/2026 20:23:26,Pratyush Kumar ,1st year,Cds,Egg Fried Rice and Chicken Manchurian,920,38,4.5,12,0.72,1,Unhealthy
+11/18/2026 20:27:27,Shriram Senthilkumar ,1st year,CDS,Chicken Fried Rice,620,26,3.2,4,0.55,1,Unhealthy
+11/18/2026 20:27:58,Raiyan khorajiya ,1st year,CDS,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:27:58,Satvat Samridh Reddy,1st year,CDS,Chicken Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:29:24,Aadit,1st year,Eee,Chips,270,3,2.2,1.5,0.25,1,Unhealthy
+11/18/2026 20:29:34,Anmol singh ,1st year,CDS,Chicken Do Pyaza,460,34,4.2,4.5,0.68,1,Unhealthy
+11/18/2026 20:31:07,Tushar A Shetty,1st year,EEE,Triple Rice,890,28,5,11,0.75,1,Unhealthy
+11/18/2026 20:31:48,Nishan Purkayastha,1st year,n/a,Peri Peri Chicken,380,42,2.5,2,0.62,0,Healthy
+11/18/2026 20:33:02,Yarish S,1st year,ECE,Plate Shawarma,650,38,4.5,4.5,0.65,1,Unhealthy
+11/18/2026 20:33:17,Mukul,n/a,Civil,Cheese Chicken Sandwich,490,26,3.2,5,0.52,1,Unhealthy
+11/18/2026 20:34:41,Sarthak,1st year,Mech,Chicken Alfaham,410,44,2,2,0.64,0,Healthy
+11/18/2026 20:35:15,S Sabyasachi Sahoo,1st year,Electrical and electronics engineering,Aloo Paratha,560,11,6,2.5,0.58,1,Unhealthy
+11/18/2026 20:35:51,Mallikarjun Udagi ,1st year,CDS,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 20:35:53,Jonathan Dsouza ,1st year,Mechanical ,Dragon Chicken,540,28,3,14,0.54,1,Unhealthy
+11/18/2026 20:36:21,Jeevana k,1st year,EEE ,Chicken Biryani,680,32,3.8,3,0.66,1,Unhealthy
+11/18/2026 20:37:35,Soumya,1st year,ECE,Ice Cream,250,4,0.5,24,0.22,1,Unhealthy
+11/18/2026 20:37:35,Mantra desai ,1st year,Metallurgical and materials engineering ,Burger,450,16,2.5,7,0.38,1,Unhealthy
+11/18/2026 20:37:37,Shreyas Y,2nd year,Mining ,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:37:40,Amritansh Gagi,2nd year,Metallurgy,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 20:38:46,Swayam,1st year,ECE,Chole Bhature,720,18,8.5,5,0.74,1,Unhealthy
+11/18/2026 20:39:34,Aarush M,1st year,Mechanical,Butter Chicken and Kerala Parotta,890,36,4,8.5,0.7,1,Unhealthy
+11/18/2026 20:40:04,Preetinkar ,1st year,Cds,Dosa,280,6,3.2,1,0.35,0,Healthy
+11/18/2026 20:40:13,Neelesh,1st year,AI,Alfaham Chicken,410,44,2,2,0.64,0,Healthy
+11/18/2026 20:41:11,Mohammed Ayesha Tabassum ,1st year,CSE,Chicken Fried Rice and Oreo Milkshake,1080,33,4.2,54,0.78,1,Unhealthy
+11/18/2026 20:42:40,Sudarshan B R,1st year,EEE,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 20:44:15,Rajath,2nd year,EEE,Plate Shawarma with Veg,630,36,5.5,4.5,0.72,1,Unhealthy
+11/18/2026 20:46:11,Vaishnavi ,2nd year,Ece,Egg Fried Rice,540,16,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:46:30,Utkarsh Pandey,1st year,Computational and Data Science,Mountain Dew,170,0,0,46,0.05,0,Unhealthy
+11/18/2026 20:48:18,Varsha Omkar,1st year,EEE,Ice Cream,250,4,0.5,24,0.22,1,Unhealthy
+11/18/2026 20:51:01,Sanath,2nd year,EEE,Club Sandwich,520,22,4,6,0.56,1,Unhealthy
+11/18/2026 20:51:19,Milin,1st year,EEE,"Veg Roll, French Fries, Ghee Podi Masala Dosa, Noodles",1420,24,11.5,12,1.15,1,Unhealthy
+11/18/2026 20:51:19,Prathamesh ,2nd year,Eee,Bread Omelette,360,18,2.5,3,0.46,0,Healthy
+11/18/2026 20:52:10,Faraaz,1st year,CDS,Kerala Parotta and Butter Chicken,890,36,4,8.5,0.7,1,Unhealthy
+11/18/2026 20:52:20,Arvind,2nd year,EEE,Paneer Butter Masala and Kerala Parotta,920,24,4.5,9,0.68,1,Unhealthy
+11/18/2026 20:52:49,harshit kumar,2nd year,eee,Chicken Kebab,340,32,1.5,1.5,0.5,1,Unhealthy
+11/18/2026 20:53:49,Syed Mobashshir Athar,2nd year,EEE,Chicken Tikka Biryani,710,36,4,3.5,0.72,1,Unhealthy
+11/18/2026 20:53:51,Pranay Saha,2nd year,EEE,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 20:54:32,Shivam Bhuwal,2nd year,Chemical,Chicken Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:55:21,Parth Maheshwari,2nd year,EEE,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 20:57:21,n/a,2nd year,EEE,Peri Peri Chicken,380,42,2.5,2,0.62,0,Healthy
+11/18/2026 21:02:24,Jora M Gonda,1st year,EEE,Chicken Peri-Peri,380,42,2.5,2,0.62,0,Healthy
+11/18/2026 21:02:47,Hari Krishna ,2nd year,EEE,Biryani and Fruit Juice,810,33,4.2,28,0.82,1,Unhealthy
+11/18/2026 21:04:52,dishita,1st year,eee,Mushroom Fried Rice,510,11,4.2,3.5,0.58,1,Unhealthy
+11/18/2026 21:06:55,Shourya Srimany,1st year,CDS,Egg Parotta,450,14,2.5,2.5,0.42,1,Unhealthy
+11/18/2026 21:06:56,Tejas P,2nd year,EEE,Kerala Parotta and Chicken Butter Masala,890,36,4,8.5,0.7,1,Unhealthy
+11/18/2026 21:08:34,Mano Ragavan,2nd year,Eee,Mushroom Fried Rice,510,11,4.2,3.5,0.58,1,Unhealthy
+11/18/2026 21:08:39,pranav,2nd year,eee,Butter Chicken,490,32,2.5,7,0.55,1,Unhealthy
+11/18/2026 21:13:12,Pink Ranger,1st year,EEE,Burger,450,16,2.5,7,0.38,1,Unhealthy
+11/18/2026 21:13:58,Shriram,2nd year,ECE,Masala Dosa,380,8,4.5,1.5,0.48,0,Healthy
+11/18/2026 21:17:36,Yashwanth,2nd year,Cse,"Chicken Tikka, Bread Omelette, Plate Shawarma, Egg Rice, Biryani",1950,108,11,12,1.85,1,Unhealthy
+11/18/2026 21:18:26,Ninad Narayan Kutwad ,2nd year,EEE ,Dosa,280,6,3.2,1,0.35,0,Healthy
+11/18/2026 21:18:32,Rishav ,2nd year,Eee,Kerala Parotta with Chicken Curry,760,34,4,4,0.66,1,Unhealthy
+11/18/2026 21:18:59,M Shravya Bhat ,1st year,EEE ,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 21:19:04,Addle Antony Jais,2nd year,EEE,Club Sandwich,520,22,4,6,0.56,1,Unhealthy
+11/18/2026 21:19:04,Amritansh Dubey ,2nd year,n/a,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 21:20:15,Vaishnavi,2nd year,EEE,French Fries,365,4,3.8,0.5,0.36,1,Unhealthy
+11/18/2026 21:24:40,Rishon ,1st year,CDS,Chicken Cheese Burger,560,28,2.8,7.5,0.48,1,Unhealthy
+11/18/2026 21:25:50,Rahul ,n/a,EEE,"Shawarma, Egg Dosa, Chicken Grilled Sandwich",1240,64,8,9.5,1.18,1,Unhealthy
+11/18/2026 21:25:57,Shreya,1st year,EEE ,Chicken Cheese Balls,420,20,1.5,2.5,0.34,1,Unhealthy
+11/18/2026 21:27:21,Snehansh Das,2nd year,n/a,Chicken Fried Rice,620,26,3.2,4,0.55,1,Unhealthy
+11/18/2026 21:29:53,Aarsh Jain,1st year,CSE,Masala Dosa,380,8,4.5,1.5,0.48,0,Healthy
+11/18/2026 21:33:17,Rishita,1st year,CDS,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 21:35:02,Tanmay Jhagekar ,2nd year,Electrical and Electronics Engineering ,Aloo Paratha with Mushroom Manchurian,820,16,8.2,11,0.88,1,Unhealthy
+11/18/2026 21:35:19,Prathiksha A M ,2nd year,EEE,Fried Rice,500,10,3,3.5,0.44,1,Unhealthy
+11/18/2026 21:37:38,Raks paks 😋😋,1st year,EEE,Lays Shawarma,590,27,3.6,4,0.54,1,Unhealthy
+11/18/2026 21:41:35,Aditya Raj,1st year,EEE,"Ghee Podi Dosa, Parotta, Manchurian",1040,18,7.5,11.5,0.82,1,Unhealthy
+11/18/2026 21:41:40,Meenakshi,1st year,CDS,"Fried Rice, Chicken Tikka",780,44,4.2,4.5,0.84,1,Unhealthy
+11/18/2026 21:41:54,Anuj Atul Mohod,1st year,Mechanical,Butter Chicken and 4 Kerala Parotta,1490,48,6.5,11,0.92,1,Unhealthy
+11/18/2026 21:42:01,n/a,4th year,n/a,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 21:42:30,Achinthya R Bhat ,1st year,Mechanical Engineering ,Mushroom Schezwan Fried Rice,550,12,4.5,6.5,0.62,1,Unhealthy
+11/18/2026 21:44:19,Yashas,1st year,EEE,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 21:46:49,M S Dhoni,1st year,EEE,Nimbooz,110,0,0.2,26,0.08,0,Unhealthy
+11/18/2026 21:51:52,Shubh Rastogi ,2nd year,Chemical engineering ,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 21:51:52,Shreya gangrade,3rd year,AI,Kebab,340,32,1.5,1.5,0.5,1,Unhealthy
+11/18/2026 21:58:49,Tishya ,1st year,Civil,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 22:02:00,Gauri Jaiswal ,1st year,Mechanical ,Roll Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 22:03:33,Tharuni 😎,1st year,EEE ,Triple Chicken Rice,940,36,5,11,0.82,1,Unhealthy
+11/18/2026 22:03:48,Garimey Joshi ,1st year,Eee,Chicken Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 22:05:40,Krinjal Sawdia ,1st year,IT,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 22:16:07,Rey ,1st year,Cse,Wrap,430,18,3.5,4,0.44,1,Unhealthy
+11/18/2026 22:20:29,Sugat,2nd year,Eee,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 22:28:43,Ruhi Deshpande,1st year,EEE,Chicken Only Shawarma,390,36,1.5,2,0.46,0,Healthy
+11/18/2026 22:28:45,Tanish Tangudu,1st year,EEE,Plate Shawarma,650,38,4.5,4.5,0.65,1,Unhealthy
+11/18/2026 22:30:46,"pranav ""athletic"" jain",2nd year,EEE,Chicken Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 22:42:19,Aryan Singh ,2nd year,Mechanical Engineering ,Dosa,280,6,3.2,1,0.35,0,Healthy
+11/18/2026 22:42:51,Mayank chandwara,1st year,Computational Data Science,"Paneer Chilly, Paneer Sandwich",860,32,5.2,12,0.78,1,Unhealthy
+11/18/2026 22:43:36,Vijay R,3rd year,Eee,French Fries,365,4,3.8,0.5,0.36,1,Unhealthy
+11/18/2026 22:44:17,Rohit Mishra,4th year,Ece,Chicken Club Sandwich,560,30,4,6,0.6,1,Unhealthy
+11/18/2026 22:46:11,Sandeep Nayak ,1st year,ECE,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 22:46:35,Toyaj sain,2nd year,Mechanical ,"Egg Wrap, Kaju Paneer, Chapati, Alfaham Chicken",1360,68,9,8,1.24,1,Unhealthy
+11/18/2026 22:50:49,Aizen,1st year,n/a,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 22:55:49,Osho ,1st year,Mining ,Double Bread Omelette,480,22,3.2,4,0.58,0,Healthy
+11/18/2026 22:56:51,Avaneesh,1st year,Mechanical ,Butter Chicken,490,32,2.5,7,0.55,1,Unhealthy
+11/18/2026 22:59:11,Manraj Singh,2nd year,CDS,Double Bread Omelette,480,22,3.2,4,0.58,0,Healthy
+11/18/2026 23:07:08,Sourabh B Patil,2nd year,CDS,Parotta with Egg Curry,640,20,3.5,4,0.56,1,Unhealthy
+11/18/2026 23:10:47,Kapil Agrawal,1st year,Mechainical,Schezwan Masala Dosa,430,9,4.8,4.5,0.54,1,Unhealthy
+11/18/2026 23:13:25,Jaiwant unde,2nd year,CDS,Chicken Hyderabadi Biryani,700,34,3.8,3,0.68,1,Unhealthy
+11/18/2026 23:21:26,utkarsh thakur,2nd year,Cse,Samosa,260,4,2.4,1.5,0.28,1,Unhealthy
+11/18/2026 23:25:58,Panyala Shiva Naga Phaninder Reddy ,1st year,Computer Science and Engineering ,"Schezwan Rice, Chicken Kebab, Kerala Parotta, Paneer Butter Masala, Pepsi",1740,62,8.5,49,1.25,1,Unhealthy
+11/18/2026 23:27:39,Yasir,2nd year,n/a,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/18/2026 23:28:00,Ananya,2nd year,ECE,Chicken Club Sandwich,560,30,4,6,0.6,1,Unhealthy
+11/18/2026 23:36:18,Nishant Sharma,1st year,Artificial intelligence ,Schezwan Noodles,540,11,4,7,0.52,1,Unhealthy
+11/18/2026 23:40:18,Swathi,2nd year,Cds,Nothing,0,0,0,0,0,0,Unhealthy
+11/18/2026 23:48:30,Nishu Saini ,1st year,EEE,Cheese Burger,520,22,2.5,7.5,0.42,1,Unhealthy
+11/18/2026 23:52:05,Tarun ,2nd year,EEE,Egg Cheese Sandwich,430,18,2.8,4.5,0.46,1,Unhealthy
+11/18/2026 23:57:24,Rahul Basavaraj,3rd year,Chemical Engineering ,Shawarma,480,28,3,3.5,0.48,1,Unhealthy
+11/19/2026 0:00:49,Brianna Matthews Pullapalil ,2nd year,Civil Engineering ,Lays Shawarma,590,27,3.6,4,0.54,1,Unhealthy
+11/19/2026 0:00:50,Utkarsh Pandey 2,1st year,Computational and Data Science ,Mountain Dew,170,0,0,46,0.05,0,Unhealthy
+11/19/2026 0:01:22,Aarush Ballari,pg,Mechanical Engineering ,Chicken Schezwan Fried Rice,650,27,3.6,6.5,0.6,1,Unhealthy
+11/19/2026 0:01:22,Utkarsh pandey ,1st year,CDS,Mountain Dew,170,0,0,46,0.05,0,Unhealthy
+11/19/2026 0:02:06,n/a,pg,cds,Nothing,0,0,0,0,0,0,Unhealthy
+11/19/2026 0:02:08,Utkarsh Pandey 3,pg,Computational Data Science,Nothing,0,0,0,0,0,0,Unhealthy
+11/19/2026 0:04:54,Inchara Kiran,2nd year,CDS,Chole Bhature,720,18,8.5,5,0.74,1,Unhealthy
+11/19/2026 0:14:23,Vishnu Vinod Kumar ,1st year,EEE,"Masala Dosa, Gobi Manchurian, Paneer Chilly, Soda, Veg Burger",1680,38,12.5,56,1.32,1,Unhealthy
+11/19/2026 0:50:22,Aseem Nirankari,1st year,Mechanical Engineering ,Cheese Loaded Fries,640,14,4.2,2.5,0.52,1,Unhealthy
+11/19/2026 4:21:32,Vansh,1st year,eee,Chole Bhature,720,18,8.5,5,0.74,1,Unhealthy
+11/19/2026 4:22:25,vansh ,1st year,eee,Chole Bhature,720,18,8.5,5,0.74,1,Unhealthy
